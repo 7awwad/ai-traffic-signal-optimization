@@ -131,7 +131,7 @@ ai-traffic-signal-optimization/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ZephyrusZorro/ai-traffic-signal-optimization.git
+   git clone https://github.com/7awwad/ai-traffic-signal-optimization.git
    cd ai-traffic-signal-optimization
    ```
 
@@ -195,12 +195,13 @@ LANE_ROIS = [
 
 ---
 
-## 👨‍💻 Author
+## Project team
 
-**Faris Ruknuddin**
-- **GitHub**: [@ZephyrusZorro](https://github.com/ZephyrusZorro)
-- **LinkedIn**: [faris-ruknuddin](https://linkedin.com/in/faris-ruknuddin-3656762b9)
-- **Email**: farisruknuddin@gmail.com
+Developed together by **Mohammed Jawwad Nagarmat** and **Faris Ruknuddin**.
+
+**Maintainer of this repository:** Mohammed Jawwad Nagarmat
+
+[GitHub](https://github.com/7awwad) · [LinkedIn](https://linkedin.com/in/MohammedJawwadNagarmat) · [Email](mailto:mohammedjawwadnagarmat8@gmail.com)
 
 ---
 
